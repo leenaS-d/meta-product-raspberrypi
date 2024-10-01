@@ -20,3 +20,4 @@ PREFERRED_PROVIDER_virtual/vendor-iarmmgrs-hal = "iarmmgrs-hal-raspberrypi4"
 PREFERRED_PROVIDER_virtual/mfrlib = "mfrlibs-hal-raspberrypi4"
 
 PREFERRED_PROVIDER_virtual/vendor-media-utils = "media-utils"
+PREFERRED_PROVIDER_virtual/ca-certificates-default = "ca-certificates-default-certs"
